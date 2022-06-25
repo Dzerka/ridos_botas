@@ -12,7 +12,7 @@ function _()
 end
 
 
-script_version("1.0")
+script_version("1.5")
 local dlstatus = require('moonloader').download_status
 local color = 0x348cb2
 
